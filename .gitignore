@@ -1,0 +1,9 @@
+node_modules
+yarn-error.log
+
+tools/cosmos/cosmos-export
+tools/cosmos/cosmos.modules.js
+
+.expo
+build
+
