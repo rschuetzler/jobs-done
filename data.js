@@ -25,7 +25,7 @@ export const appData = {
       urls: ['https://todoist.com']
     }
   ],
-  setPhrase: 'Shutdown complete.',
+  setPhrase: 'Jobs done.',
   activities: {
     Social: ['Attend an event', 'Dine out', 'Hang out', 'Call someone dear'],
     Physical: ['Go for a run', 'Go for a swim', 'Take a long walk', 'Work out'],
